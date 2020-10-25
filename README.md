@@ -1,8 +1,8 @@
-#PARKING-MANAGEMENT-SYSTEM
+# PARKING-MANAGEMENT-SYSTEM
 
 This is a car parking management application, where all the parking spaces are defined with-in the system and been allocated to cars for certain period of time.
 
-#FUNCTIONALITIES:
+# FUNCTIONALITIES:
 1) Initialize: Initialize the data with a button click: 
 Parking Zone Data: Add 3 parking zones by naming them as A, B, and C
 Parking Space Data: Add 30 parking space by naming them as A01...A10, B01...B10, and C01...C10.
@@ -18,7 +18,7 @@ Require Vehicle Registration Number
 3) Reports: Show on the browser
 Parking Zone Report
 
-#ENTITIES/ATTRIBUTES
+# ENTITIES/ATTRIBUTES
 
 1)parking_zone
 
@@ -50,7 +50,7 @@ Parking Zone Report
 
 ->name
 
-#Dependencies included in Project
+# Dependencies included in Project
 
 1)Node
 
@@ -70,9 +70,11 @@ Parking Zone Report
 
 9)bootstrap
 
-#Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
+
+npm install
 
 cd src/server
 
