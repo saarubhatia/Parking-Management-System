@@ -9,7 +9,7 @@ Parking Space Data: Add 30 parking space by naming them as A01...A10, B01...B10,
 Allocation: Remove all transactional data
 2) Dashboard
 Parking Space Listing (sort by parking_space_title ascending, with fliter by parking_zone_title)
-Shows Parking Space Title, Availability (Vacant: Green and Occupied: Gray), Vehicle Registration Number (if occupied)
+Shows Parking Space Title, Availability (Vacant: Green and Occupied: Red), Vehicle Registration Number (if occupied)
 Visible to everyone
 Book Parking Space 
 Require Vehicle Registration Number
