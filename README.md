@@ -39,7 +39,7 @@ Parking Zone Report
   * release_date_time
   * name
 
-## Dependencies included in Project
+## DEPENDENCIES
 
 1. Node
 2. Express
