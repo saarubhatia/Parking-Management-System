@@ -21,20 +21,34 @@ Parking Zone Report
 #ENTITIES/ATTRIBUTES
 
 1)parking_zone
-*parking_zone_id
-*parking_zone_title
-*parking_space
-*parking_space_id
-*parking_space_title
-*parking_zone_id
-*name
+
+->parking_zone_id
+
+->parking_zone_title
+
+->parking_space
+
+->parking_space_id
+
+->parking_space_title
+
+->parking_zone_id
+
+->name
+
 2)vehicle_parking
-*vehicle_parking_id
-*parking_zone_id
-*parking_space_id
-*booking_date_time
-*release_date_time
-*name
+
+->vehicle_parking_id
+
+->parking_zone_id
+
+->parking_space_id
+
+->booking_date_time
+
+->release_date_time
+
+->name
 
 #Dependencies included in Project
 
