@@ -48,7 +48,7 @@ Parking Zone Report
 5. react-dom
 6. react-router
 7. react-router-dom
-8. moment
+8. moment.js
 9. Bootstrap
 
 # Available Scripts
